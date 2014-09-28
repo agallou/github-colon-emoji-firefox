@@ -1,0 +1,9 @@
+{
+  "name": "github-colon-emoji",
+  "title": "Github Colon Emoji",
+  "id": "jid1-xnfzTgoIiw0r6w",
+  "description": "Allows you to press enter after a colon without adding an emoji on Github",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
